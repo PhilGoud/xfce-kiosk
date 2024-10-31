@@ -1,4 +1,4 @@
-# Kiosk Mode Configuration Script for Debian 12
+# Kiosk Mode Configuration Script for Debian 12 and XFCE
 
 This configuration script transforms a Debian 12 machine into a passive kiosk mode. The kiosk mode is designed to automatically launch Chromium in fullscreen mode, displaying a specified webpage (`https://yourwebpage.com`) when the computer starts, without requiring user login. This mode is ideal for showcasing dashboards, presentations, or static web pages on a display.
 
