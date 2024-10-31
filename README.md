@@ -11,6 +11,7 @@ This configuration script transforms a Debian 12 machine into a passive kiosk mo
 ## Prerequisites
 
 - **Debian 12**: Ensure you are running Debian 12 or a compatible distribution.
+- **XFCE Desktop Environment**: Ensure you have the XFCE desktop environment installed on your Debian 12 system.
 - **Internet Connection**: The script requires an internet connection to install necessary packages and to access the specified webpage.
 
 ## Dependencies
